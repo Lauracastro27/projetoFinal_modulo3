@@ -58,10 +58,9 @@ Esse projeto foi desenvolvido para fins educativos.</p>
 <img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/main/Page/img/Valdery.jpg" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/main/Page/img/Will.jpg" width="20%">
         
-<h2 id="nomes" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camille Monteiro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laura Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Valdery Jr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;William Firmino</h2>
+<h2 id="nomes" align="left">&nbsp;&nbsp;&nbsp;Camille Monteiro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laura Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Valdery Jr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;William Firmino</h2>
 
 <div id="emails" align="left">
-&nbsp;&nbsp;&nbsp;
 <a href="mailto:camillemonteiro.dev@gmail.com">camillemonteiro.dev@gmail.com</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:Laura2702castro@gmail.com">Laura2702castro@gmail.com</a>
@@ -72,7 +71,7 @@ Esse projeto foi desenvolvido para fins educativos.</p>
 </div>
 
 <div id="icones" align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/camimonteiro" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/GitHubwhite.png" height="80em" title="GitHub de Camille"></a>
 <a href="https://www.linkedin.com/in/camillemonteiro/" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/LinkedInWhite.png" height="80em" title="LinkedIn de Camille"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Lauracastro27" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/GitHubwhite.png" height="80em" title="GitHub de Laura"></a>
