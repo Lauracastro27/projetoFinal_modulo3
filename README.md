@@ -71,13 +71,13 @@ Esse projeto foi desenvolvido para fins educativos.</p>
 </div>
 
 <div id="icones" align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/camimonteiro" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/GitHubwhite.png" height="80em" title="GitHub de Camille"></a>
-<a href="https://www.linkedin.com/in/camillemonteiro/" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/LinkedInWhite.png" height="80em" title="LinkedIn de Camille"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/camillemonteiro/" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/LinkedInWhite.png" height="80em" title="LinkedIn de Camille"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Lauracastro27" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/GitHubwhite.png" height="80em" title="GitHub de Laura"></a>
-<a href="https://www.linkedin.com/in/laura-castro-89509416b/" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/LinkedInWhite.png" height="80em" title="LinkedIn de Laura"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/laura-castro-89509416b/" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/LinkedInWhite.png" height="80em" title="LinkedIn de Laura"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/valderyjr" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/GitHubwhite.png" height="80em" title="GitHub de Valdery"></a>
-<a href="https://www.linkedin.com/in/valderyjr/" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/LinkedInWhite.png" height="80em" title="LinkedIn de Valdery"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/valderyjr/" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/LinkedInWhite.png" height="80em" title="LinkedIn de Valdery"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/williamfirmino92" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/GitHubwhite.png" height="80em" title="GitHub de William"></a>
 <a href="https://www.linkedin.com/in/william-firmino-87a2ba80/" target="_blank"><img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/LinkedInWhite.png" height="80em" title="LinkedIn de William"></a><br>
 
