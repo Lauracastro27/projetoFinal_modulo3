@@ -58,7 +58,7 @@ Esse projeto foi desenvolvido para fins educativos.</p>
 <img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/main/Page/img/Valdery.jpg" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/main/Page/img/Will.jpg" width="20%">
         
-<h2 id="nomes" align="left">&nbsp;&nbsp;&nbsp;Camille Monteiro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laura Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Valdery Jr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;William Firmino</h2>
+<h2 id="nomes" align="left">&nbsp;&nbsp;&nbsp;Camille Monteiro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laura Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Valdery Jr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;William Firmino</h2>
 
 <div id="emails" align="left">
 <a href="mailto:camillemonteiro.dev@gmail.com">camillemonteiro.dev@gmail.com</a>
