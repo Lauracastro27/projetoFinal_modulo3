@@ -61,13 +61,13 @@ Esse projeto foi desenvolvido para fins educativos.</p>
 <h2 id="nomes" align="left">&nbsp;&nbsp;&nbsp;Camille Monteiro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laura Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Valdery Jr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;William Firmino</h2>
 
 <div id="emails" align="left">
-  <h6><a href="mailto:camillemonteiro.dev@gmail.com">camillemonteiro.dev@gmail.com</a>
+  <span><a href="mailto:camillemonteiro.dev@gmail.com">camillemonteiro.dev@gmail.com</a></span>
 &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:Laura2702castro@gmail.com">Laura2702castro@gmail.com</a>
+  <span><a href="mailto:Laura2702castro@gmail.com">Laura2702castro@gmail.com</a></span>
 &nbsp;&nbsp;&nbsp;
-  <a href="mailto:valderyjunior2002@gmail.com">valderyjunior2002@gmail.com</a>
+  <span><a href="mailto:valderyjunior2002@gmail.com">valderyjunior2002@gmail.com</a></span>
 &nbsp;&nbsp;&nbsp;
-    <a href="mailto:willpetrelli@gmail.com">willpetrelli@gmail.com</a></h6>
+  <span><a href="mailto:willpetrelli@gmail.com">willpetrelli@gmail.com</a></span>
 </div>
 
 <div id="icones" align="left">
