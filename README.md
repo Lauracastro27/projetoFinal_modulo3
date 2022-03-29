@@ -9,7 +9,7 @@
 
 <h2>Progresso do Projeto 📈</h2><br>
 
-<img src="" height="40em"><br>
+<img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/Cami/Page/img/100%25.png" height="40em"><br>
 
 <h2 id="sobre">Sobre o projeto 🔎</h2>
 <!-- Escrever texto! -->
@@ -31,15 +31,17 @@ Esse projeto foi desenvolvido para fins educativos.</p>
 - [x] mySQL Workbench
 - [x] Infogram
 - [x] Git
+- [x] Scrum
+- [x] Kanbam
 - [x] Trello
 - [x] Canva
 
 <hr>
 
 <div id="autores" align="center">
-<h2 align="left">Desenvolvedores / Autores</h2><br>
+<h2 align="left">Desenvolvedores / Autores 🥇 </h2><br>
 
-<img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/main/Page/img/Cami.png" width="20%">
+<img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/main/Page/img/Cami.png" width="20%" border-radius="50%">
     <h2>Camille Monteiro</h2>
     <a href="mailto:camillemonteiro.dev@gmail.com">camillemonteiro.dev@gmail.com</a><br>
     <a href="https://github.com/camimonteiro" target="_blank"><img src="https://raw.githubusercontent.com/camimonteiro/Game_SaidaEscarlate/main/Images/GitHubwhite.png" height="80em" title="GitHub de Camille"></a>
