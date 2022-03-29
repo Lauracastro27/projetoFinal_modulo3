@@ -62,11 +62,11 @@ Esse projeto foi desenvolvido para fins educativos.</p>
 
 <div id="emails" align="left">
 <a href="mailto:camillemonteiro.dev@gmail.com">camillemonteiro.dev@gmail.com</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:Laura2702castro@gmail.com">Laura2702castro@gmail.com</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:valderyjunior2002@gmail.com">valderyjunior2002@gmail.com</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:willpetrelli@gmail.com">willpetrelli@gmail.com</a>
 </div>
 
