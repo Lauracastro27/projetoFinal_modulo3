@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido para fins educativos.</p>
 
 <img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/main/Apresentation/Gráficos/P9%20-%20Camille.png" width="80%" height="50%"><br>
 
-<a href="">Veja a apresentação completa aqui</a>
+<a href="https://github.com/Lauracastro27/projetoFinal_modulo3/blob/main/Apresentation/Projeto%20Final%20-%20Mód%203%20-%20Fórmula%201.pdf">Veja a apresentação completa aqui!</a>
 
 <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
 
