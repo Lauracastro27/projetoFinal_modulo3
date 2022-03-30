@@ -1,13 +1,7 @@
-
 /*1) Quantas voltas totais foram realizadas nas corridas “Brazilian grand Pix?”*/
 
 /*COMANDO DE EXECUÇÃO*/
 SELECT nome, COUNT(*) AS corridas_realizadas FROM corridas GROUP BY nome ORDER BY corridas_realizadas DESC;
-
-
-/*2) Quantos corredores possuem menos de 40 anos?*/
-NÃO CONSEGUI.
-
 
 /*3) Qual nacionalidade que teve mais vitórias entre 2000 e 2009?*/
 
@@ -41,16 +35,12 @@ FROM construtores_classificacao AS cc
 INNER JOIN construtores AS c USING (construtores_id) 
 GROUP BY (construtores_id) HAVING count(cc.posicao) >= 1 ORDER BY vitorias_totais DESC LIMIT 15;
 
-/*7) Qual o maior piloto de Fórmula 1 de todos os tempos?*/
-/*CRIAÇÃO DA VIEW PARA AGRUPAR AS TABELAS PILOTOS E PILOTOS_CLASSIFICACAO*/
-CREATE VIEW VITORIOSOS AS 
-SELECT a.piloto_apelido AS PILOTO,
-b.vitorias AS Vitorias
-FROM pilotos a, pilotos_classificacao b
-WHERE a.piloto_id = b.piloto_id;
+/*7) Quais o maiores piloto de Fórmula 1 de todos os tempos?*/
 
 /*COMANDO DE EXECUÇÃO*/
-SELECT piloto, COUNT(vitorias) AS TOTAL_DE_VITORIAS FROM vitoriosos WHERE vitorias=1 OR vitorias ='1' GROUP BY piloto order by TOTAL_DE_VITORIAS DESC;
+SELECT CONCAT(pilotos.nome, ' ', pilotos.sobrenome) AS nome_completo,
+COUNT(resultados.posicao_real) AS vitorias_totais FROM resultados
+INNER JOIN pilotos USING (piloto_id) WHERE resultados.posicao_real = 1 GROUP BY (piloto_id) ORDER BY vitorias_totais DESC LIMIT 10;
 
 /*8) - Laura alterou e fez;*/
 
