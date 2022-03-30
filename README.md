@@ -30,12 +30,13 @@ Esse projeto foi desenvolvido para fins educativos.</p>
 
 <h2 id="graficos">Gráficos gerados 📊</h2>
 
-<!-- <img src="" width="80%" height="50%"><br>
+<img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/main/Apresentation/Gráficos/P8%20-%20Camille.png" width="80%" height="50%"><br>
 
-<img src="" width="80%" height="50%"><br>
+<img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/main/Apresentation/Gráficos/P7%20-%20Laura.png" width="80%" height="50%"><br>
 
-<img src="" width="80%" height="50%"><br>
- -->
+<img src="https://raw.githubusercontent.com/Lauracastro27/projetoFinal_modulo3/main/Apresentation/Gráficos/P9%20-%20Camille.png" width="80%" height="50%"><br>
+
+<a href="">Veja a apresentação completa aqui</a>
 
 <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
 
