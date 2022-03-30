@@ -41,7 +41,7 @@ Esse projeto foi desenvolvido para fins educativos.</p>
 
 - [x] SQL
 - [x] mySQL Workbench
-- [x] Infogram
+- [x] Tableau
 - [x] Git
 - [x] Scrum
 - [x] Kanbam
